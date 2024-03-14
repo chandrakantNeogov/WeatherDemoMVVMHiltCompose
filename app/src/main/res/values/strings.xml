@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="no_data_available">No data available\n</string>
+    <string name="error">A problem occured while loading the weather data\n</string>
+    <string name="image">Image\n</string>
+    <string name="day_temp">day temprature</string>
+    <string name="weekly_forecast">Weekly Forecast</string>
+</resources>
